@@ -1,0 +1,3 @@
+npx create-react-app my-app
+npm start -> w package.json są określone "scripts"
+npm install sass
