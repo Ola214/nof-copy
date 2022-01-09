@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css'
 import Menu from '../components/Menu/Menu';
+import './Reset.module.scss';
 
 class App extends Component {
 

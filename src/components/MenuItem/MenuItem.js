@@ -6,9 +6,7 @@ class MenuItem extends Component {
     render() {
 
         return (
-            <li>
-                <a href={this.props.link}>{this.props.value}</a>
-            </li>
+            <a className='nav-item nav-link' href={this.props.link}>{this.props.value}</a>
         );
     }
 }
